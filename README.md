@@ -6,6 +6,7 @@
 
 ``` bash
 # change mongodb uri in config file in root folder
+mongoURL = mongo URI
 
 # Install dependencies for server
 npm install
